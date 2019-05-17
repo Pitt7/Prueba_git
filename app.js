@@ -11,3 +11,4 @@ git commit // para subir cambios
 git log // has para ver quien hizo los cambios en el archivo o cmmit
 git checkout -- nombredelarchivo // para descartar cambios
 git diff // para verificar la diferencia 
+.gitignore // archivo para meter las carpetas que quiero que ignora y no me muestre que tiene cambios
