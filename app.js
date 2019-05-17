@@ -9,3 +9,5 @@ git config --global user.name "" //mombre del usuario
 git commit // para subir cambios
 :wq! //para termiar el commit
 git log // has para ver quien hizo los cambios en el archivo o cmmit
+git checkout -- nombredelarchivo // para descartar cambios
+git diff // para verificar la diferencia 
