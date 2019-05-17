@@ -17,3 +17,6 @@ git diff // para verificar la diferencia
 git branch //para verificar 
 git branch nombredeversion // agregar una version diferente a master
 git checkout nombredeversion // para cambiar de version
+git remote add origin direcciondeinternet //instruccion para subir el proyecto a un repositorio
+git push origin master //empezar a agregar un login para acceder a github
+git clone direccionderepositoriogithub //para clonar el proyecto
